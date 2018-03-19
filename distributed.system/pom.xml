@@ -7,5 +7,6 @@
   <packaging>pom</packaging>
   <modules>
     <module>performance</module>
+    <module>apm</module>
   </modules>
 </project>
